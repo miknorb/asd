@@ -4,5 +4,5 @@ function laugh() {
 }
 
 function write() {
-    console.log(laugh);
+    console.log(laugh());
 }
